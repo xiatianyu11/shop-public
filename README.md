@@ -1,1 +1,1 @@
-# shop-public
+# shop
